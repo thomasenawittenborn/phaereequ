@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://onuwingif.nhat.me/sitemap.xml
